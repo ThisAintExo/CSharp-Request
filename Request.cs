@@ -27,8 +27,6 @@ namespace Wow
             while (true)
             {
                 DogReq("https://dog.ceo/api/breeds/image/random");
-                DogReq("https://dog.ceo/api/breeds/image/random");
-                DogReq("https://dog.ceo/api/breeds/image/random");
             }
         }
     }
